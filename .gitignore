@@ -1,18 +1,30 @@
-# This .gitignore is appropriate for repositories deployed to GitHub Pages and using
-# a Gemfile as specified at https://github.com/github/pages-gem#conventional
+# Loja de Codiguins FF
 
-# Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+Bem-vindo à **Loja de Codiguins FF**! Este é o seu destino definitivo para adquirir códigos exclusivos e itens raros do Free Fire. Aqui, você encontrará codiguins para pacotes angelicais, skins raras e muito mais. Aproveite o desconto de **5% para Mestres**!
 
-# Additional Ruby/bundler ignore for when you run: bundle install
-/vendor
+## Funcionalidades
 
-# Specific ignore for GitHub Pages
-# GitHub Pages will always use its own deployed version of pages-gem 
-# This means GitHub Pages will NOT use your Gemfile.lock and therefore it is
-# counterproductive to check this file into the repository.
-# Details at https://github.com/github/pages-gem/issues/768
-Gemfile.lock
+- **Codiguins exclusivos** para pacotes e skins do Free Fire.
+- **Desconto de 5%** para jogadores Mestres.
+- Compra rápida e segura via WhatsApp.
+- Interface simples e fácil de navegar.
+
+## Como Usar
+
+1. Acesse o site da **Loja de Codiguins FF**.
+2. Selecione o produto que deseja adquirir.
+3. Clique no botão **Comprar Agora**.
+4. Seja redirecionado para o WhatsApp para finalizar a compra.
+
+## Tecnologias Usadas
+
+- **HTML5** e **CSS3** para estruturação e estilização do site.
+- **WhatsApp API** para facilitar a comunicação e compra com os clientes.
+
+## Instalação
+
+Caso queira rodar esse projeto localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/loja-codiguins-ff.git
